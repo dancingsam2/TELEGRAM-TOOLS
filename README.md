@@ -9,6 +9,6 @@ HOW TO GET YOUR APP API_ID AND APP API_HASH
 5. Under "App Configuration" you can see your 'api_id' &amp; 'api_hash' available.
 
 REQUIREMENTS
-python 3 upward 
-pip install telethon
-create a file and use its path in your cmd to run.
+1. python 3 upward 
+2. pip install telethon
+3. create a file and use its path in your cmd to run.
