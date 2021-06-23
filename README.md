@@ -7,3 +7,8 @@ HOW TO GET YOUR APP API_ID AND APP API_HASH
 3. Input CONFIRMATION CODE 
 4. Next> Click API development tools  Fill the form that comes up  
 5. Under "App Configuration" you can see your 'api_id' &amp; 'api_hash' available.
+
+REQUIREMENTS
+python 3 upward 
+pip install telethon
+create a file and use its path in your cmd to run.
